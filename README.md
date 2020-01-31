@@ -1,4 +1,4 @@
-# CS 285 Project
+# CS 285 
 
 Reinforcement Learning on Fitness Landscapes
 
@@ -24,8 +24,8 @@ https://worldmodels.github.io/ for dimensionality reduction
 
 ### GPU
 ```
-ssh txr@ssh.mlbrainstorm.club -p 6000
-tangxiangru
+ssh ...@ssh.mlbrainstorm.club -p 6000
+psw:...
 ```
 
 ### Todo
